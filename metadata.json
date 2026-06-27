@@ -1,0 +1,6 @@
+{
+  "name": "Private Cinema",
+  "description": "بوابة أفلام ومسلسلات آمنة لتوليد روابط مشاهدة مشفرة ومخفية عن العامة ومحركات البحث.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
